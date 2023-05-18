@@ -1,0 +1,2 @@
+# Move
+Narsalarni ko'chirish
